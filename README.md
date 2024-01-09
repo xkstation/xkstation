@@ -11,6 +11,8 @@
 
 🌺 Usually free so you should say hi sometime!
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,linux,bash,python,cs,discord,bots,godot,md,vim,vscode)](https://skillicons.dev)
+
 ![](https://lanyard.cnrad.dev/api/1017067177796456469)
 
 [![xkstation's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkstation)](https://github.com/anuraghazra/github-readme-stats)
